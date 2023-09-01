@@ -1,11 +1,7 @@
-YouTube: 18.34.37  
-Music (arm64-v8a): 6.17.52  
-Music (arm-v7a): 6.17.52  
+YouTube Premium: 18.34.37   
 
 
-Visit [website](https://amaankazmi123.wixsite.com/instagrambyamu) for more information and updates..
-
-
+Made with ❤️ by[Amaan kazmi](https://instagram.com/amaan_kazmii)
 
 ---
 Changelog:    
@@ -26,10 +22,6 @@ Patches: YT-Advanced/revanced-patches-2.190.0.jar
 
 * **higher-seekbar-height:** This patch will increase the seekbar height, which is helpful for user who have a big screen ([3c9fe28](https://github.com/YT-Advanced/ReX-patches/commit/3c9fe28075eead38d65bb2bfbba5b4456d0d9c2c))
 
-* **youtube/layout:** Hide quality layout footer https://github.com/YT-Advanced/ReX-patches/issues/20
-
-
-### made with❤️by Amaan kazmi:)
 
 
 
